@@ -1,1 +1,1 @@
-gitea/gitea
+inventree/inventree
