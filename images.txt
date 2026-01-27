@@ -1,1 +1,1 @@
-godoos/godoos
+privoce/vocechat-server
