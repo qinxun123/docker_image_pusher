@@ -1,1 +1,1 @@
-cesheji/vocechat
+privoce/vocechat-server
